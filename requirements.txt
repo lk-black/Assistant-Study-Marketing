@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-ollama
+langchain-deepseek
+bs4
+chromadb
+python-dotenv
+langchain-huggingface
+langchain-openai
